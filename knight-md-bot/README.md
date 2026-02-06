@@ -31,7 +31,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/knight-md-bot.git
+git clone https://github.com/kaaxmaybe/knight-MD
 cd knight-md-bot
 ```
 
@@ -182,8 +182,8 @@ This bot is for educational purposes only. Use responsibly and respect WhatsApp 
 
 ## 📊 Stats
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/knight-md-bot?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/knight-md-bot?style=social)
+![GitHub stars](https://img.shields.io/github/stars/kaaxmaybe/knight-MD?style=social)
+![GitHub forks](https://img.shields.io/github/forks/kaaxmaybe/knight-MD?style=social)
 
 ---
 
