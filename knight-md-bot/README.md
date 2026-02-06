@@ -32,6 +32,7 @@
 
 ```bash
 git clone https://github.com/kaaxmaybe/knight-MD
+cd knight-MD
 cd knight-md-bot
 ```
 
